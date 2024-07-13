@@ -4,10 +4,10 @@ This can span into data cleaning, visualization, machine learning, etc.
 You can fork this repository to draw inspiration or continue my footsteps.
 
 
-|Project| Name    | Description| Link|
-|-------|---------|---------|--------|
-|   1   |
-|2      |
+|Project| Name    | Description| Link|  Status  |
+|-------|---------|---------|--------|----------|
+|   1   |         |         |        | Ongoing  |
+|2      |         |         |        | Ongoing  |
 |   3   |           
-|   4   |         | Making a Flask App with a NN backend API|[Project 4]('https://github.com/miniloda/DS-ML-AI-52-Weeks/blob/main/Project%204')
+|   4   |         | Making a Flask App with a NN backend API|[Project 4]('https://github.com/miniloda/DS-ML-AI-52-Weeks/blob/main/Project%204') | Ongoing|
 |   5   | Scratch NN| Making a Neural Network from scratch| 
