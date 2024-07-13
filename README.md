@@ -9,5 +9,5 @@ You can fork this repository to draw inspiration or continue my footsteps.
 |   1   |
 |2      |
 |   3   |           
-|   4   |         | Making a Flask App with a NN backend API|[Project 4]('https://github.com/miniloda/DS-ML-AI-52-Weeks/blob/main/Project%204')
+|   4   |         | Making a Flask App with a NN backend API|<a href = "https://github.com/miniloda/DS-ML-AI-52-Weeks/blob/main/Project%204"> Project 4 </a>
 |   5   | Scratch NN| Making a Neural Network from scratch| 
