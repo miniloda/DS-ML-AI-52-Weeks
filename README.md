@@ -6,7 +6,7 @@ You can fork this repository to draw inspiration or continue my footsteps.
 
 |Project| Name    | Description| Link|  Status  |
 |-------|---------|---------|--------|----------|
-|   1   |         |         |        | Ongoing  |
+|   1   |         |         |        | Done  |
 |2      |         |         |        | Ongoing  |
 |   3   |           
 |   4   |         | Making a Flask App with a NN backend API|[Project 4]('https://github.com/miniloda/DS-ML-AI-52-Weeks/blob/main/Project%204') | Ongoing|
